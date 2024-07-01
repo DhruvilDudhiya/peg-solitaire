@@ -1,0 +1,38 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "src/prefabs/Board.js",
+                "type": "script",
+                "key": "Board"
+            },
+            {
+                "url": "src/scripts/GameMamanger.js",
+                "type": "script",
+                "key": "GameMamanger"
+            },
+            {
+                "url": "src/scripts/LevelManager.js",
+                "type": "script",
+                "key": "LevelManager"
+            },
+            {
+                "url": "assets/gameplay/peg.png",
+                "type": "image",
+                "key": "peg"
+            },
+            {
+                "url": "assets/gameplay/peg-blank.png",
+                "type": "image",
+                "key": "peg-blank"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
