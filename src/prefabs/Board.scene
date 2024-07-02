@@ -27,6 +27,44 @@
                             "isFilled": true,
                             "width": 600,
                             "height": 600
+                        },
+                        {
+                            "type": "Image",
+                            "id": "75d0c637-3af8-4568-8e80-97262b4e145d",
+                            "label": "peg",
+                            "texture": {
+                                "key": "peg"
+                            },
+                            "x": -80,
+                            "y": -140,
+                            "scaleX": 0.4,
+                            "scaleY": 0.4,
+                            "visible": false
+                        },
+                        {
+                            "type": "Image",
+                            "id": "b81d759c-bc69-4b81-9d99-56d1d140dd2d",
+                            "label": "peg_1",
+                            "texture": {
+                                "key": "peg"
+                            },
+                            "y": -140,
+                            "scaleX": 0.4,
+                            "scaleY": 0.4,
+                            "visible": false
+                        },
+                        {
+                            "type": "Image",
+                            "id": "3de31bcd-8198-4238-b273-879b49fdebe7",
+                            "label": "peg_2",
+                            "texture": {
+                                "key": "peg"
+                            },
+                            "x": 80,
+                            "y": -140,
+                            "scaleX": 0.4,
+                            "scaleY": 0.4,
+                            "visible": false
                         }
                     ]
                 },
